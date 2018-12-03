@@ -5,3 +5,10 @@ C:\Users\James Cam Abreu\Dropbox\Development\Visual Studio 2017\WordSearchGenera
 C:\Users\James Cam Abreu\Dropbox\Development\Visual Studio 2017\WordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.CoreCompileInputs.cache
 C:\Users\James Cam Abreu\Dropbox\Development\Visual Studio 2017\WordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.exe
 C:\Users\James Cam Abreu\Dropbox\Development\Visual Studio 2017\WordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.pdb
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.exe.config
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.exe
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.pdb
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csprojAssemblyReference.cache
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.CoreCompileInputs.cache
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.exe
+G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.pdb

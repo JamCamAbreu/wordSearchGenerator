@@ -44,10 +44,11 @@ namespace WordSearchGenerator {
     }
 
     public void setRandomLetters() {
+      int numRandomLetters = wordSelections.randomLetterList.Length;
       for (int i = 0; i < gridSize; i++) {
         for (int j = 0; j < gridSize; j++) {
           if (letters[j, i] == BLANK) {
-            letters[j, i] = (char)ran.Next(97, 122);
+            letters[j, i] = wordSelections.randomLetterList[ran.Next(0, numRandomLetters - 1)];
           }
         }
       }
@@ -287,6 +288,7 @@ namespace WordSearchGenerator {
       }
       setRandomLetters();
 
+      retString += "\n\n\n";
       retString += getGridString();
       retString += getWordListString();
       return retString;
@@ -308,8 +310,13 @@ namespace WordSearchGenerator {
 
 
     public static void buildMenus() {
-      menu_wordLists.Add("Thousand Word List");
-      menu_wordLists.Add("Hundred Word List");
+      menu_wordLists.Add("Fry's first hundred");
+      menu_wordLists.Add("Fry's first five-hundred");
+      menu_wordLists.Add("Fry's first thousand");
+      menu_wordLists.Add("Popular PC games");
+      menu_wordLists.Add("Sports");
+      menu_wordLists.Add("Pirates and Medieval");
+      menu_wordLists.Add("Christmas");
 
       menu_dimensions.Add("10 characters");
       menu_dimensions.Add("15 characters");
@@ -423,9 +430,14 @@ namespace WordSearchGenerator {
       // Generate Puzzle(s):
       wg = new WordGrid(puzzleSize);
       switch (wordList) {
-        case 1: wg.buildWordList(wordSelections.commonHundred, wordSize); break;
-        case 2: wg.buildWordList(wordSelections.commonThousand, wordSize); break;
-        default: wg.buildWordList(wordSelections.commonHundred, wordSize); break;
+        case 1: wg.buildWordList(wordSelections.L_fryFirstHundred, wordSize); break;
+        case 2: wg.buildWordList(wordSelections.L_fryFirstFiveHundred, wordSize); break;
+        case 3: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
+        case 4: wg.buildWordList(wordSelections.L_popularComputerGames, wordSize); break;
+        case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
+        case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
+        case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
+        default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
       }
 
 
