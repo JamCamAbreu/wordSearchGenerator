@@ -1,0 +1,26 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    P B o l a ' m l a e r p r q t 
+    6 d G a 6 W T m k Z Q q J 9 c 
+    c U t s L Q g 7 m 3 Y u j K G 
+    p 9 o h I 2 e T a B s e a i L 
+    h a u l j x a S n E N s j a X 
+    O a t o o l r B o C t t n F M 
+    6 ' 0 l 4 2 S V r o m r a E l 
+    m o a t e l b o n p e e r G y 
+    9 f h a C I w s v D K t P 2 f 
+    w 6 a t 5 O e y e m I r 2 f U 
+    - g n w o r c M J A 5 a F l f 
+    e s d B X O c P i o 4 d m a m 
+    u z s q t s a o c l d e j g 8 
+    u r z t s e h c t s e r c f t 
+    9 7 M w c 4 L - B C U w V F l 
+
+    Find these words:
+    haul, hands, moat, noble, crown, eye, peer, crest, loot, 
+    lash, manor, realm, trade, quest, coast, gear, flag, chest, 
+    armor, 

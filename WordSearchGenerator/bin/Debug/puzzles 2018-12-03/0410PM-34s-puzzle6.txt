@@ -1,0 +1,36 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    U R z z O 3 6 ' N x F m k k f b r o 7 H i T h b u 
+    R t u c - 0 w a J 8 P a 3 T 6 P t V 5 W J i k 5 V 
+    Z n n E t 9 v f F t 5 d C S u Q 5 O E r - D ' q g 
+    0 a y G o K N i x r a e 2 w c A W d 6 L I v e b c 
+    T J S W l 2 F v d Z D Q E d Y W 2 U L Y n j r o P 
+    o 3 f 4 d i g e x G 5 U q e 4 z I U l o i y p E N 
+    F p 6 G A Q J O 2 7 q l g b y P l i n e 6 0 o k d 
+    L D x c l d p k V s p l a n t ' 6 C N 9 x b i g v 
+    i U 6 0 K N o 5 5 y l M Q d e m q W n d 6 M n J a 
+    O D C y D L n L D s m d U u 5 g M O B j D B t 9 b 
+    t K x 0 L c e T C t O W U 4 U R W P H 9 G K s Z T 
+    o g 2 G R w H P w e q I U n V O d Z 8 s V E Q ' Z 
+    C n n a G Y Q 6 S m r e v e w o h I l i h g D W F 
+    k A l C V X w p W w n D G e y C l a s t r d C I O 
+    M w G L x Q d ' - b K - C d l Q r k e c a l p Z J 
+    8 f n r a f - - Q i H L G h i E d n o b 4 E B n S 
+    9 R 6 v z o n i O r f l p r u l e 8 V j 0 S A s 0 
+    0 H N K 8 A W E 7 d a m C Y p r e b m u n o B t j 
+    P u 9 H v J e 5 T s C G W Q U g q y y N u e w a N 
+    c z l x Z d ' t h e r e - d Y i a b o u t C n n K 
+    w 6 K Y 7 v s G k r - n 6 v U 7 P x O t O 9 d d h 
+    r 5 W t h g u o h t b h V e s U M E d r y ' U 2 l 
+    u l 9 f l l G o Q p r o u n d 4 b a p Z v 4 d I h 
+    s t s i t n e i c s Y 9 z l i 3 J z m j R K w Y K 
+    Z W d P u E G w 8 - d P A D m i U g c i R O t U O 
+
+    Find these words:
+    birds, , point, plant, place, rule, made, system, told, 
+    number, however, far, need, stand, about, scientists, five, 
+    an, line, cut, there, dry, thought, round, last, one, 

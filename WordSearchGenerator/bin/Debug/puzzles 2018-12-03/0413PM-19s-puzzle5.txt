@@ -1,0 +1,25 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    c Z t ' e 5 h i t t e r O I L 
+    y Q p r d e r u g i f O w - 6 
+    c 9 e t i k j p q p 9 t a b T 
+    l t e l l a m q b x f q r I Q 
+    e s 2 a 5 c G N P I V J e D X 
+    ' 8 l t n k L H X U j O n x K 
+    9 r S K n l a d e m u C a 5 Z 
+    5 2 K l q J L p x 7 m - ' 8 y 
+    i Y m e b B Y k I B p e m - n 
+    0 M x z 5 a P C a M e h N Q S 
+    n 8 P s t r i k e M r 0 9 j U 
+    i y V J S i 0 E G D 4 Y S x c 
+    U - 6 x - w - 7 3 w R o 9 m 9 
+    V 5 G U N y V a b u c s M S h 
+    V p 4 6 n u 0 J I f z q Z 2 f 
+
+    Find these words:
+    scuba, jumper, medal, cycle, strike, kite, arena, mallet, 
+    hitter, figure, 

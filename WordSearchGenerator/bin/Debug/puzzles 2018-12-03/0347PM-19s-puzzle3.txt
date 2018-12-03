@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    h R F j g s Y w o k i W v F T g H J q W A o x B B N w J c M 
+    U B m g Y y B g L m i n g n s m W h f l G r k f d R O P W t 
+    a A u f d s b b K F Z t B H K g Q O M t z C q K x N b i K S 
+    x V P x z t K c I z l J N j N U l l e p s J m M z d f R Q q 
+    Z I a L e e c S D R i W f L X d e o l d D J e x I T C m Z R 
+    e P A B w m Z j n E - q c Y y y P - G s e c a f r u s i I K 
+    v h w n i G c I v z G J A J d t W q m t D Z H Z A x t n u h 
+    K e - y o u r z N q u e s t i o n s s o S j B F B v O u Y U 
+    I r B q - - b D s d n i k t r f m I R r U Q s C a e j t D o 
+    R e b w i E h Z F Z i d K e B q V M m y k V o - m y z e W L 
+    T L s e e m k O a S H w W n Q K X V p V a K A z F C B s h y 
+    L T i u n J b H i - m u c h U s e R t J y q s I P a W N p s 
+    B C D X U Q z s Z L B A n X A q u y e K X N C F V a y I a w 
+    G D V T v G c c a n D G T V k z X p l l D Q s K E f j L n l 
+    m G Q c E v y S I s t w H N p R Q l l r e t t e b j J A o U 
+    o j - g y T x l T V h A d A k w c V n e e d z l N l A V t Q 
+    n D c G b q E i Q a t s z t n - S w s R U s O y Y l m z h A 
+    e g h J I F r v Z m w J q - - E k e V q x R O d O z o M e w 
+    y G S o p e n e b i K t a I m f V E N u u Q - r o C q v r Q 
+    P m Z C z E s j t m i k k O t i E V u J U a y n a m c m s f 
+    p r c Z E k I u E D d Q D f f D I f a y s R N y r E m i Z P 
+    M h a l f S y C a d t B I r x Q W o m d L T e z i W L g w t 
+    e C j d I r C L f X S T U j c g V r e z E x h z v M U h o G 
+    n O f r l Y n P L c h T z y o W o c g E I g D t W v S t Q h 
+    m f u l l P U U e l b N y t V y a e Y w G F t K e W U b M N 
+    I u i B - T y A z a I C r a e h d r P i v G N s q d Q M O - 
+    L Z Y D X V x k X s m v J D R p r o d u c e S G w p k Y I N 
+    U f H L W U I C M s f - l a r e v e s O Z e F T t L v G w X 
+    A a a m E M m D T d f D y M L h L F M Z Y K F a f G s f a l 
+    w m r g x n L l t C z l w s E j P I k S l d g D g I W N P S 
+
+    Find these words:
+    , open, another, might, force, much, old, class, half, can, 
+    hear, seem, live, produce, need, several, tell, better, kind, 
+    full, minutes, here, questions, surface, many, spell, system, 
+    story, money, your, 

@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    o E I L A J v J T F p k x T e B T d a Z A e t R C J H n G w 
+    y Z O v n q n a t P a a l X w Y u d d k q C B G A K w k g u 
+    R T X n x v Q q D m W c r U g d P s Q f K A M H y B Z n X S 
+    w z K E y N Q - s Y b X N w K B c Z j m S Y Z C D b k e n m 
+    I b R n M u d s t m a w W I U d Q - r x R - n R w z z h T R 
+    p z g S h Q T B a s j U j S N P H l u q o f c v I C v D u K 
+    h s i l g n E v r W j T v A X x w g G d P R S Y U v g o J N 
+    U f u l l Q g D s A f F Q U E h M p U g n i n r o m B H G f 
+    T l K W D R W b e m o d B U G y v N y - G n e t f o u B L s 
+    a a o T Z e d o d p u P A o s U u t h C W Z o b v D V c a Y 
+    D o p l a n R a o Y r K P h b o R o n Q o o F G b C N U m h 
+    X Q b u P e i g e q V z J N V i f g o I b D L s o n g T r L 
+    L P t W W - m p s h T l M a S O v e U S a K d q l g h g Z n 
+    P Q r e Y v u C z S N c s e c z Y t r B R T v m l p T x Y j 
+    e r e m s x g d v a - k W r S Y t h q v D Y q p I V W s g A 
+    R f e X K g h w n l v r M e O f O e z o o R c p c A z c n j 
+    o W L D f n C k c o X t b p R e n r g t u o h t i w R L l A 
+    m p y n D s F V B n P h Z g B w v H w A q c j I U y h r f N 
+    i H J r p g b d i g U o n Z M e G A M n X V T a J j o u w s 
+    p e r s o n E V U Y V u N h X n t b n O q A p K y J u l h R 
+    l i q g O y U z U p h g a q J t H h z n O a M m o s s e i u 
+    s E U Z w a q e r e h h a r c m y T B B V y H s x V e i t k 
+    M q Q K H G p t L K l h h j G e O O O y N n e R T o J u e w 
+    H o n i P V u c E I i i W t A q V X f y d X t e G w f f Z - 
+    L M - H t I w - A M Z s G z n o E t r m m L X K - Q X E d q 
+    U E x d e d i c e d d i f f e r e n t g o n T v w c F x t l 
+    N X u R x a m S q X i M m E i z J D A v T h S d - j O B t w 
+    R u w V u v - B t r a v e l s w u h F y E C E e a s k A r B 
+    i Q b F r u u D a I Y r p q C C i L f l e s m i h y Y - c W 
+    k D H j D U L f x V f r I x O Z S C - c m W m v d h Q Q l w 
+
+    Find these words:
+    song, his, English, morning, , often, plan, rule, person, 
+    here, does, travel, though, house, himself, full, decided, 
+    me, different, four, along, went, together, white, of, tree, 
+    ask, without, in, stars, 

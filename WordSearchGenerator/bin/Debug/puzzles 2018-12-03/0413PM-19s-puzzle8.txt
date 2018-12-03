@@ -1,0 +1,20 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    D r e t s i s c k G 
+    2 e a t V Q j a b - 
+    V 4 u d n i w t - b 
+    w i t h j m T h m B 
+    s h o u t e d V e Z 
+    w h e t h e r h t H 
+    b r o w n M v I a n 
+    f e s r o h j O l M 
+    d r o p Z x h N j a 
+    e r K O g c t G O 0 
+
+    Find these words:
+    , whether, sister, eat, wind, with, metal, cat, horse, 
+    shouted, drop, brown, 

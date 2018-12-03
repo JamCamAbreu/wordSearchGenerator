@@ -1,0 +1,28 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    e c n e t n e s ' e r i f r s 
+    w o r k e r s t i n g R L n d 
+    b n c r n a t e p h a n d a Y 
+    l J n o o l l i m g r e w t C 
+    u b o n r s o T w p o l e i 6 
+    e v a W t l v - o c s b t o N 
+    n a n Q h i e r r h u r h n 7 
+    w a s n e t r i k e p i o r G 
+    l i t i r h b c Z c p g s a Q 
+    e o h x n t h h ' k l h e n x 
+    f u i d e r d n u h y t M G Z 
+    t s n f Y 6 s e h t C d Z - b 
+    2 9 g b u y t d n i k r m G t 
+    y r u t n e c d n a l s i t t 
+    y I h q b b E U b I c s 8 l 7 
+
+    Find these words:
+    buy, various, bones, , bright, million, create, the, supply, 
+    sentence, left, century, nation, work, hand, those, 
+    interesting, hundred, verb, light, ran, island, anything, 
+    kind, rich, check, wasn’t, pole, workers, blue, northern, 
+    grew, fire, 

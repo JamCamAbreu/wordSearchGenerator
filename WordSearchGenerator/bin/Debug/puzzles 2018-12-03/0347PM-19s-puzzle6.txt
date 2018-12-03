@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    l Z w N d L Y N l b p Y x t b c f Q u y k u o A u S W h m r 
+    a N D v F n o p u M O m C S Z Z w p U f B e u v F A O z c p 
+    h s p e a t a W o x N e C J l k W t P t K a l w a y s N Y N 
+    a b j s p C S G d d p s D A d Q C h j T S S b j v t B X B k 
+    S j a V I m z t a H i v K s s e l o - A n K i b P h H V s u 
+    B M u x w - o h u H k e B c J K v u m t r x B Y p r V W R Y 
+    U w C N i U X C D T a m K h Y R a s N z e k p p x e X V N p 
+    Q m Q w t R p z d c I C d e V f I a y M H I s D w e N G x D 
+    Y r H N h R h g u o r h t c S P v n d u t G - c F U I a - H 
+    s l W s S T J d g n b D m k O R a d d j n F j u V J V n M w 
+    p P b J Q p W h U P u s W h M L V s t r a v e l P V P d a b 
+    h A a a g f B F k e x e d y b o X S N p f K o l Y V U - U B 
+    J G c W H c F m u k h p q M e s o h t w F i r a e l c n Z i 
+    f V k I C r c i c J N Z H G h d H D R X a F V D Q s T P m Z 
+    K z Y A O K V u O e w G q I h Q Y p l A x X E B s o o n t M 
+    B s f r I S O D - o W U k L S P c n A J c K m I h H t Z Y a 
+    F g s G A w w U f J Y j F a u M l W K D l n u p q I k i z O 
+    D b m A f i S D - K S a k - M Q p S p c o r G p l a c e f c 
+    u S j X c l W G N j l d e I O Y a o h B t j K F G H D K o X 
+    p l B C l l p j j E I U S E G o s y d x I B K L b h e M r B 
+    B F b z j x Q C k w Z m I G E Y s C - O v k z e j J C U v C 
+    O d w o h K K M K D B D U V a A e F d C w o Q d a J f N u A 
+    H p h f F S z H B H F f o r c e d j o I c U z o v E u o u r 
+    u F M V x k D X N y l l a u s u b L n q m k t X f K C p m S 
+    P G W g s P x K X I n w F u I w s J e e p c - Z i h e y t p 
+    w x n e r d l i h c d i P Z A O b U f z Q U Y U n o Y b w T 
+    Y u w n r b O o g k m A Q g E B K p N w e v G n e f n F C J 
+    F N q S B Y t - T r u l e K l J x p M B R m o t h e r G T M 
+    H s e c o n d p t B X G B x w k L o D Q P U E B h P i i b h 
+    Y m X g b D u A V e p P C E n A R w G p o h G t i g R L M X 
+
+    Find these words:
+    , usually, check, soon, clear, me, mother, rule, those, 
+    second, three, upon, always, add, will, done, fine, travel, 
+    through, place, back, how, at, eat, thousands, with, passed, 
+    force, less, children, 

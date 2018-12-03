@@ -1,0 +1,25 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    e r o l p x e 4 t l ' - r l P 
+    7 n d n q l k W v w u a 0 o R 
+    d r e b b o r t o r r a p n H 
+    o E s l p 0 s O n d m S S a d 
+    u U T L L z p t K G g ' 8 g Y 
+    b l o y 8 A n n p a t c h e J 
+    l 5 a C 3 z b N 3 A 7 5 q r P 
+    o w o y v e j l i m e y o 2 R 
+    o 8 n q 9 o Q I - M N c S i E 
+    n N l I 3 d u D i T X O E g Z 
+    g Q e y a - e y a h f c F Q F 
+    A z 3 T W s I e s r u o c v J 
+    P A B F l f e a r 0 ' u R d k 
+    M n B o 9 n d m O Z M H O d c 
+    q d 3 P q U e b q g F Q g Y v 
+
+    Find these words:
+    doubloon, explore, robber, course, limey, parrot, aye-aye, 
+    onager, patch, fear, 

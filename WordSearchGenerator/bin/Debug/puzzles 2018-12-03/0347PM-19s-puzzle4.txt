@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    L v f S n X s t V k l A K S n r L - M E s o V y g z c g k W 
+    U M g k t a Q h E C D Z W d b w M q s X E h w J s O T V w P 
+    - I h H s w T b e t w e e n M e x D v n n M W x b m q o o r 
+    P Y G P V A d B p K B - I ’ l l V R u I g F y t I o F A N W 
+    I R V f u G E Q w H x L w T S q I D f K l N R Q f v S w V U 
+    K d n u o f E A r u r H g r I q Q T r Q i N o B s e B W e I 
+    h J T u B s d o w n p d S t L f H Q Z v s t I v P W w F I x 
+    b Q B k P f m C - B r q y y l A q a E t h z t o o k s J F G 
+    V s z L J V r g G Q b g i V I N o g B n d e l b a t o T N s 
+    S F g l p a y o w J h f G h D E h L L x R R y o l d b e w n 
+    f x x y z Y A o Y t i s o m e G s I r U N v y e s o Z d S x 
+    K k h o u s e d O S i Y B d p q n S U G A B L N D L X L S e 
+    t i M S I r t q S d J j j Z j H j - C k O Z K Q F F f t - Y 
+    L m C q t c e j b o Q A j u o G J X d h - w l R j A j m W B 
+    q b c p G T i m M L e r x v O n C i p y E w s T b d r s F f 
+    K c A M h D J - b k N r b K G x k L U T x b l r - H x e n J 
+    m e s C u s e p R Q q K N - S T - - O F J e n a l p B J - v 
+    m u H W S x h c h k u V O f m r C D y Z k j a y h n T K H r 
+    u R Q I P Q D Y k i r D H m r a w X e G n o u n R q - Y i U 
+    R v j J g B M t f n X C a n s w e r t h a n O b o a J Y j l 
+    p j I p j d h w Q g s - k L d R F S w e M H u - J O Z A l K 
+    n J c t Y n V a f f o y l f o g x i R R J g e v i f s v H s 
+    O l l J U x y l J U x Q x s b B b i N f W f A h k U U n d I 
+    T e M r s - n k a f q k l a t L E f - g H w O U p p A z h i 
+    H d n a h c H O R s h s h M u s B Z r S q i c A y u n y b M 
+    c U O E q h A H T y v c w R c f M U E g E U h L D a V K M E 
+    P T m p J B e m x i F e b B t B D q i d e a l M u n r - H s 
+    o w l K Q U R - h E T S g M t z n l t L z v p R i n a Q Q g 
+    m e u k g k n p o b g H G f X N v g R u m X m R w h e s c L 
+    A y e u E u w i J h M J m A l m B k k Z J P U w X w C Y N i 
+
+    Find these words:
+    , off, some, talk, between, down, fly, walk, yes, object, 
+    noun, house, answer, table, plane, five, old, me, good, use, 
+    English, idea, hand, warm, king, move, took, found, I’ll, 
+    than, 

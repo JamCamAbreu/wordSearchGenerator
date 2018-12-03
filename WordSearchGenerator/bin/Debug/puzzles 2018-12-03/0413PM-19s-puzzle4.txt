@@ -1,0 +1,30 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    J N e d a m T F 2 r s 6 v U M b 5 B 9 ' 
+    B H p z O I Q T n 3 n c h W i y o u b H 
+    a p x O w D X T Z b q 6 B d i T 2 l n I 
+    i h c a e x K M o w 3 N a m Z L - k t e 
+    w k I f r o m 8 U 3 q o a w b N E 9 Z Z 
+    n o U t ' 5 Z w C M Y n l e i A Q l N d 
+    y C 7 q m 8 y R Z N d M 3 a 7 w g X o L 
+    u E B J N - n l t h e y n a h t L 9 6 2 
+    j 7 M O 9 Q S 4 ' - M 7 U P 0 q ' R i 0 
+    G J M C S j U 3 U - w N N d 4 y a m V z 
+    L q D - 9 x c I v f i T E O 9 h m p A t 
+    L b e s e h t h d B l z C e M X p w l C 
+    Y P w e M m 9 r X K o j t h a t E h 9 M 
+    P X f h Z S h j V 9 ' C M O U 4 D e X 0 
+    0 x 9 0 I 2 f j S R D w 3 i s x q n ' K 
+    - I f Y c o u l d h t i w D k g E l s p 
+    V a V o - L 3 m O g 5 Q N 7 t u V H m q 
+    0 G 4 w r i t e v h C N F W O r 2 V y C 
+    p 3 y n a m G b S f i r s t g T 3 N i l 
+    q I R q b 6 c 4 2 2 j S i F 7 S U M L w 
+
+    Find these words:
+    , from, could, is, that, many, each, write, with, than, 
+    these, may, on, they, when, you, first, made, 

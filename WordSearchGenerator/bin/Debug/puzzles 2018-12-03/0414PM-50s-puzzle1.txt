@@ -1,0 +1,19 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    B y m F v q e k I t 
+    d a a o l o o k d n 
+    o n y t h i s s e N 
+    w d e m o c o p 4 I 
+    n s w P 9 l n i f D 
+    B i h q 3 0 d n i m 
+    3 t e p W z s b n b 
+    n C n L l A n j d t 
+    l y I 8 o i l Q W v 
+    L q T 3 9 z U u O n 
+
+    Find these words:
+    , find, oil, come, may, when, in, and, sit, down, this, look, 

@@ -1,0 +1,19 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    P o e w s n e D i M 
+    q l l z n b 4 m h T 
+    p d 0 e U j W b e h 
+    L W e l o h g o O 0 
+    8 d e l s a y t q Z 
+    l l a f k Q O v l g 
+    3 e n i f u t n w ' 
+    v l z o s I n K d u 
+    9 9 f e l l N 3 G m 
+    3 q A d p d I - A g 
+
+    Find these words:
+    old, say, , fine, he, fall, go, fell, we, hole, led, 

@@ -1,0 +1,20 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    g r y r d 5 B R D q 
+    o e I w H d m a U 6 
+    o d ' a l w e F W H 
+    d 4 d s f i v e w D 
+    l o o k c 8 w a h ' 
+    i t e l b a j t i W 
+    I X h a v e M G c K 
+    2 t r o h s o W h o 
+    a f Q - e t a l d Y 
+    G f f l U T F Y d i 
+
+    Find these words:
+    , was, have, late, am, five, short, eat, it, look, dry, red, 
+    good, we, able, which, 

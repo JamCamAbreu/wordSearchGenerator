@@ -1,0 +1,26 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    Y s s e t n u o c e V - V F J 
+    c o u r s e s e a w e e d X f 
+    x V r o y a l p T I s r D A t 
+    y N E q q X c r - A a i R 8 N 
+    f e u d a l n i J p i c Y 9 M 
+    ' l j p F 9 Q g R d l h h e M 
+    J 2 g r K R 5 g y j i e Z 6 n 
+    5 Q 2 i d l e i h s n s 2 m ' 
+    O Z T n c G c n Q M g 6 k m A 
+    q x X c y T Q g p e e k s a H 
+    a d v e n t u r e E q ' c t h 
+    e m o s r a e f e c e 5 a e d 
+    t o r t u r e V R E W E r s r 
+    X T 9 l k o o h v b d j v q D 
+    R Q L p m 8 z h y k ' X Z f s 
+
+    Find these words:
+    countess, keep, seaweed, feudal, rigging, mates, scar, royal, 
+    riches, fearsome, prince, torture, shield, hook, course, 
+    adventure, sailing, 

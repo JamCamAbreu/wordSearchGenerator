@@ -1,0 +1,39 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    t a h R p r o b l e m m l y C U A s D o n A b t h 
+    a V s D b s a U t n u o m a z q r o v p O r o 7 L 
+    3 q O I x e s u a c e b m S m j F v q m 7 H a ' h 
+    o c T H o u 8 O a A N 7 o I F 3 d e A e n t r X B 
+    X u 8 p W 7 c M y p j O u C d 7 4 r f a 2 Y d c O 
+    c r o f a K S m Z Z y J t 8 d W i c Q n f m i 4 5 
+    i d e a c V M 9 O b a 6 h c ' 5 y h w s b i O a E 
+    6 s Z c o u n t r y X B P G M A n e v e e s 6 A Z 
+    e V I Q a g 8 d o x M e v o m q f S x n W s f Y A 
+    d e y e s a g r e e d k A s k p o e m m a D a 0 L 
+    g o r K t D w i Y Z Z U H r e h t a e w s A 8 X s 
+    e F d l S n W u n w o r b o l t u p I ' h m w 5 k 
+    h s i s t e r y T M G m r r o H O N B - i e a f X 
+    Z Q A f Z o s s e r p x e c c W P c n d n l t i L 
+    e B R 3 Y h Z ' c c ' G i l a b h o I i g o c e p 
+    t ’ n o w o r e h c a e t i t O a u y d t d h l B 
+    a o e - M l 7 z Q F h U y m e d v l l h o y D d l 
+    n 9 w R e d d o n ’ t I e b d ' e d e s n R X o j 
+    E 6 ' k y x Q J Q i E 3 s e z G f n a v 4 R S Q 6 
+    b o L u s m V n j 6 6 8 S d l C Y ’ s C s I 8 P 9 
+    l O 8 j c o h w n e c e s s a r y t t p V v n c i 
+    6 v y d a r k 8 E q 6 R j R d L s 9 a H H c k f n 
+    m a i t n e w J V M K S P R y w o n s U n 6 p g h 
+    r L d 3 ' e h g u o h t l a s a g H S M B 3 8 h o 
+    O d Q a G K T j D d G 3 8 M G C o y 3 v I ' f j n 
+
+    Find these words:
+    sister, , Washington, because, hat, coast, field, idea, have, 
+    even, teacher, won’t, climbed, least, mouth, over, agreed, 
+    although, means, lady, snow, don’t, move, brown, watch, gas, 
+    board, amount, edge, hold, melody, dark, did, went, put, why, 
+    located, poem, miss, country, problem, who, couldn’t, for, 
+    express, weather, yes, necessary, eyes, 

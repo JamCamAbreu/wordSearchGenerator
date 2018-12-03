@@ -1,0 +1,20 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    N v f t 4 Z s P L Z 
+    Z s e i l l c Q r O 
+    r i P e c r u w o 9 
+    p o o l r a b g p I 
+    J l i p i t a h e 7 
+    k c i t s P 3 r 6 u 
+    g o l d b o w x J P 
+    I r e i k s C k x p 
+    0 G j u m p c S u b 
+    2 I g N t N ' h 7 b 
+
+    Find these words:
+    gear, bow, skier, stick, jump, rope, pitch, tie, crew, pool, 
+    gold, ollie, scuba, 

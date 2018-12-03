@@ -1,0 +1,24 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    s n d z S z U o B X 3 y q b ' 
+    J U ' p C w p l 3 z S Z M G l 
+    X p z H L n 7 Z y Y s F H f v 
+    8 e T m D 9 i P K 0 X u R b q 
+    X o l d Y m Z e n o M 9 i N G 
+    W p p d C 8 Y A a 2 b K 8 Y 2 
+    P l i J k h 8 y J b Z v Y k E 
+    e e 2 f e B 7 n w o d z 4 A h 
+    H m l P S a 9 m a k e l A c D 
+    t M M D H l j Q d B L Y z E G 
+    i j v r N l y k u q z w a R z 
+    m P U h P b o u R 4 m o R J c 
+    e O 0 t 8 A n d B E 2 r r R Z 
+    P e H l 6 E T 7 e r e w o N 3 
+    j D t s u V 0 8 Z b o c 4 e Z 
+
+    Find these words:
+    , one, make, on, all, time, or, down, people, were, 

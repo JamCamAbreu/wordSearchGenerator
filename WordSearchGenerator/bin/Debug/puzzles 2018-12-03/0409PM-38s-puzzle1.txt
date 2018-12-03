@@ -1,0 +1,20 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    P e v a c p k l J 0 
+    t s e r c a i a W i 
+    r a e g V h n s o K 
+    p a t c h o g h r y 
+    s e d i t y 6 n l M 
+    e p o r t H H C d J 
+    v s e a s A n t T D 
+    3 R v Z f r e s z f 
+    e g e i s o n j U q 
+    4 s ' h R p p a z n 
+
+    Find these words:
+    patch, cave, king, serf, ahoy, seas, gear, World, baron, 
+    crest, tides, rope, lash, siege, 

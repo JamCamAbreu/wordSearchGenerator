@@ -1,0 +1,19 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    7 f 2 L a o n m w G 
+    s I Q 4 s E 9 u l H 
+    u R w 7 s T D s j g 
+    r R y g a m e i V B 
+    e C c K s P U c Q j 
+    f G g a y m f T C n 
+    i R p K s t A T 5 y 
+    j d l e i f w u I 6 
+    P k N t e s a y S G 
+    I a l p o h r Q O q 
+
+    Find these words:
+    my, on, sure, , as, field, say, set, game, music, 

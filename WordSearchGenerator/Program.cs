@@ -27,6 +27,17 @@ namespace WordSearchGenerator {
     public char[,] letters;
     Random ran;
 
+    public string printLogo() {
+      string retString = "";
+      retString += indent + "@ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @\n";
+      retString += indent + "|   WORD SEARCH GENERATOR                   |\n";
+      retString += indent + "|                     by James 'Cam' Abreu  |\n";
+      retString += indent + "@-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @\n";
+      return retString;
+    }
+
+
+
     public WordGrid(int _dimension) {
       gridSize = _dimension;
       letters = new char[gridSize, gridSize];
@@ -180,7 +191,6 @@ namespace WordSearchGenerator {
         // Now collisions contains the COLUMNs (if horizontal) or ROWs (if vertical) of the collisions
         if (collisions.Count == 1) {
           if (show) { Console.WriteLine("Attempting collision"); }
-          int checkIndex = 0;
           isMatch = true;
           char cur, target;
 
@@ -288,7 +298,9 @@ namespace WordSearchGenerator {
       }
       setRandomLetters();
 
-      retString += "\n\n\n";
+      retString += "\n";
+      retString += printLogo();
+      retString += "\n";
       retString += getGridString();
       retString += getWordListString();
       return retString;
@@ -302,6 +314,7 @@ namespace WordSearchGenerator {
 
   class Program {
 
+    public static List<string> menu_mainMenu = new List<string>();
     public static List<string> menu_wordLists = new List<string>();
     public static List<string> menu_dimensions = new List<string>();
     public static List<string> menu_wordLengths = new List<string>();
@@ -310,6 +323,10 @@ namespace WordSearchGenerator {
 
 
     public static void buildMenus() {
+
+      menu_mainMenu.Add("Generate puzzles with random settings");
+      menu_mainMenu.Add("Generate puzzles with custom settings");
+
       menu_wordLists.Add("Fry's first hundred");
       menu_wordLists.Add("Fry's first five-hundred");
       menu_wordLists.Add("Fry's first thousand");
@@ -404,7 +421,6 @@ namespace WordSearchGenerator {
     }
 
 
-
     static void Main(string[] args) {
       // Program Prep:
       printLogo();
@@ -417,41 +433,85 @@ namespace WordSearchGenerator {
       Directory.CreateDirectory(fullPath);
 
       // Questions:
-      answer = question("How many letters wide/long would you like your puzzle?:\n" + menuOptions(menu_dimensions, 1));
-      int puzzleSize = 5 + 5 * answer;
-      int wordList = question("\n\nPlease choose a word list:\n" + menuOptions(menu_wordLists, 1));
-      answer = question("\n\nMaximum possible word size?\n" + menuOptions(menu_wordLengths, 1));
-      int wordSize = 2 + answer * 2;
-      answer = question("\n\nHow many words will each puzzle contain?\n" + menuOptions(menu_numWords, 1));
-      int numWords = answer * 5;
-      answer = question("\n\nHow many puzzle files would you like to generate?\n" + menuOptions(menu_numPuzzles, 1));
-      int numPuzzles = (int)Math.Pow(2, (answer - 1));
+      answer = question("\n\nPlease choose an option from the following:\n" + menuOptions(menu_mainMenu, 1));
 
-      // Generate Puzzle(s):
-      wg = new WordGrid(puzzleSize);
-      switch (wordList) {
-        case 1: wg.buildWordList(wordSelections.L_fryFirstHundred, wordSize); break;
-        case 2: wg.buildWordList(wordSelections.L_fryFirstFiveHundred, wordSize); break;
-        case 3: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
-        case 4: wg.buildWordList(wordSelections.L_popularComputerGames, wordSize); break;
-        case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
-        case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
-        case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
-        default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
+      // RANDOM VARIOUS PUZZLES OF ALL TYPES
+      if (answer == 1) {
+        answer = question("\n\nHow many puzzle files would you like to generate?\n" + menuOptions(menu_numPuzzles, 1));
+        int numPuzzles = (int)Math.Pow(2, (answer - 1));
+
+        Random ran = new Random();
+
+        string curPuzzle;
+        string fileName;
+        string filePath;
+        string timeString;
+        for (int i = 1; i <= numPuzzles; i++) {
+
+          int puzzleSize = 5 + (5 * ran.Next(1, 5));
+          wg = new WordGrid(puzzleSize);
+          int wordSize = ran.Next(4, puzzleSize - 2);
+          int numWords = ran.Next(10, puzzleSize + 5);
+          int wordList = ran.Next(1, 7);
+          switch (wordList) {
+            case 1: wg.buildWordList(wordSelections.L_fryFirstHundred, wordSize); break;
+            case 2: wg.buildWordList(wordSelections.L_fryFirstFiveHundred, wordSize); break;
+            case 3: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
+            case 4: wg.buildWordList(wordSelections.L_popularComputerGames, wordSize); break;
+            case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
+            case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
+            case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
+            default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
+          } // end switch
+
+          curPuzzle = wg.generatePuzzle(numWords);
+          timeString = DateTime.Now.ToString("hhmmtt") + "-" + DateTime.Now.ToString("ss") + "s-";
+          fileName = timeString + "puzzle" + i.ToString() + ".txt";
+          filePath = Path.Combine(fullPath, fileName);
+          System.IO.File.WriteAllText(@filePath, curPuzzle);
+        } // end for
+      } // end random generation
+
+      // CUSTOM PUZZLES WITH SETTINGS:
+      else {
+        answer = question("How many letters wide/long would you like your puzzle?:\n" + menuOptions(menu_dimensions, 1));
+        int puzzleSize = 5 + 5 * answer;
+        int wordList = question("\n\nPlease choose a word list:\n" + menuOptions(menu_wordLists, 1));
+        answer = question("\n\nMaximum possible word size?\n" + menuOptions(menu_wordLengths, 1));
+        int wordSize = 2 + answer * 2;
+        answer = question("\n\nHow many words will each puzzle contain?\n" + menuOptions(menu_numWords, 1));
+        int numWords = answer * 5;
+        answer = question("\n\nHow many puzzle files would you like to generate?\n" + menuOptions(menu_numPuzzles, 1));
+        int numPuzzles = (int)Math.Pow(2, (answer - 1));
+
+        // Generate Puzzle(s):
+        wg = new WordGrid(puzzleSize);
+        switch (wordList) {
+          case 1: wg.buildWordList(wordSelections.L_fryFirstHundred, wordSize); break;
+          case 2: wg.buildWordList(wordSelections.L_fryFirstFiveHundred, wordSize); break;
+          case 3: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
+          case 4: wg.buildWordList(wordSelections.L_popularComputerGames, wordSize); break;
+          case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
+          case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
+          case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
+          default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
+        }
+
+
+        string curPuzzle;
+        string fileName;
+        string filePath;
+        string timeString;
+        for (int i = 1; i <= numPuzzles; i++) {
+          curPuzzle = wg.generatePuzzle(numWords);
+          timeString = DateTime.Now.ToString("hhmmtt") + "-" + DateTime.Now.ToString("ss") + "s-";
+          fileName = timeString + "puzzle" + i.ToString() + ".txt";
+          filePath = Path.Combine(fullPath, fileName);
+          System.IO.File.WriteAllText(@filePath, curPuzzle);
+        }
+
       }
 
-
-      string curPuzzle;
-      string fileName;
-      string filePath;
-      string timeString;
-      for (int i = 1; i <= numPuzzles; i++) {
-        curPuzzle = wg.generatePuzzle(numWords);
-        timeString = DateTime.Now.ToString("hhmmtt") + "-" + DateTime.Now.ToString("ss") + "s-";
-        fileName = timeString + "puzzle" + i.ToString() + ".txt";
-        filePath = Path.Combine(fullPath, fileName);
-        System.IO.File.WriteAllText(@filePath, curPuzzle);
-      }
 
       // Success and Exit:
       Console.Write("\n\n");

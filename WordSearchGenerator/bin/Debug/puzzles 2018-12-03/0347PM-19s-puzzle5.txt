@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    X P Q f m M L m w f s O q p K a O d T U p W l f M Q l S G J 
+    i Q i P O y q c p M V - D Z n L t V p y x h v Y O U H v V J 
+    A X q S g w s l o w l y Z n j U n L O P U B N Y w F J G G Y 
+    s s m c d p L A D J b C u a B g C - Y w e r e l M S J O O S 
+    a l a u z h G Q i e h Q f Y b l s V d N Q U z - s m F K E - 
+    L k d E D H g k C D R - u L K T u y d z K h e a t M d t m m 
+    o A e o P M A T c X v j b k e I h b f a x c u n B b m y S j 
+    V x s h o w n d R b d P u r m o - e A D o n m M S x o D o n 
+    S P m d k e r a u h Q A k B P P l o m n H O - W F b c H f p 
+    n i B W y c l y H v t V b Z L I d b o s k a L K r d L G t a 
+    o h w J K p v l T W M A L i K L R m v p W h k e e w Y c e L 
+    A V d j t P c s n I S p l a c e E p e w d x D N p g C t n w 
+    i F x H K G t E A j K s I M G A v q t r D q E L p Q h S J G 
+    D Y r H U K w e y J S n r k v k D t h A r e w o p t A Z p o 
+    T a h T c d o h w j f g F p q i I l e X s y a w l a p S a N 
+    X x X V d S M R o b f l I v Z P K Y r M o - C Y V k g S F a 
+    x P s t b J b N o c C J A D I b U M e v Y o y H v C D N e i 
+    D F t i J x v W d r a F G M R U j f i n d R Y M e A V J F y 
+    D L A V k K m e I w Z F d a h P o l e N A z d o n ’ t m U I 
+    w W J E U P c X h g m x Z D h h u p W z Q A I X n I n - J H 
+    O v u f c l h b a l l l T v k a r u g s N N i g x M l s d W 
+    w s t i l l t v V c Z M u M p s w O t n l V D g B V P i j O 
+    S v w I C K h r i S G q F P E q K R y p I U E D z r G x d p 
+    e d i s n i r K H w o w Z k q z f C u g E M x t h s M P p P 
+    K m C I B c o J q Y E K U Y - l v w I x G s s o r c a O t L 
+    j I j s i E u g W K z E M D I p B D H I x Q V P A x d x Y F 
+    L p y D a H g z W C i C l g j M Y D m o t h e r e w W j T u 
+    z p S W D K h J p O w - E S H - P Y U p n i a t n o c l d V 
+    N B n N o t a Q z Y q m s z D I u e g j N s l o o h c s R S 
+    y q u S h c O X h S J e s s f k r t r a Z k X h b c b n W q 
+
+    Find these words:
+    , contain, week, had, made, find, through, school, our, two, 
+    move, inside, were, wood, across, often, shown, are, there, 
+    mother, power, always, place, has, slowly, don’t, heat, ball, 
+    no, still, 

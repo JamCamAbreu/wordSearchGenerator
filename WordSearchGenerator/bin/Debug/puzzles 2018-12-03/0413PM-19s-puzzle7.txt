@@ -1,0 +1,35 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    y U O ' d 8 M a p o r u E J G k O W L R I a a Z U 
+    c f G R P B c d 3 O 2 S p 6 Y I A ' Y v 3 T 2 D 0 
+    g A I I e k a u Q D w S i m C i t y x f C V O l n 
+    e k a u Q X R c 8 x ' X M B u H Y z u k S X - K 7 
+    p w H 7 t X e n e Q o r M ' Q B N L W r p X x K 5 
+    N r g 9 7 S C 5 E R a o S 6 v E 8 h D u o D r Z M 
+    l D B h 2 0 f 3 S b B 4 3 f ' R E w S ' r 7 P L i 
+    L i j j h 7 p Z f x A B 2 - 5 r N T K X e l K O F 
+    4 a n I k E d 7 6 i V G B R i v e n 0 F P c K x Y 
+    7 b y J 7 h d z c V A 2 O 8 y b o A F y O b J y a 
+    K l 6 c l Z A 4 a k c i g a M h 8 q p h E y x X 8 
+    a o T A W S U w h 9 X 7 m h p G u S k l A F E Y f 
+    K T G W s y J 8 h k 8 F t W R 7 t T 7 c i P U - f 
+    p T q h a N W f 8 C T R K - 4 g M y s t x Q V f 2 
+    s u a M C N 0 - O h Z d O 9 m X A T O c i y l Z V 
+    s Q d E Q p h V A D o o m I I y e 8 4 q H n 3 V 3 
+    s w q x ' K d a e h p u C w 2 V 3 g n v n Y V w U 
+    o l j 6 l n n f 2 B 6 - V T 9 V r N s 9 Q g D Z h 
+    E j O O J j z O P e h S Q I g L 8 0 x a 2 T C 7 v 
+    T V G O b s m i S e h T K e u W l X r - R M z f 3 
+    P Q I r e B s z ' j F j a f l G O Y G y s Q U s x 
+    t C W i - z 2 - G j G s m f W e K Z y a D x 9 8 j 
+    h 5 p 9 x h R p g D y M f t X j 7 z E D o o m E P 
+    9 I R X E L l d B q X j N 0 0 0 q 9 e n B w E c P 
+    D S l n E Z m W i T Q P r o 9 B U M L E q w ' 6 S 
+
+    Find these words:
+    Myst, Diablo, SimCity, TheSims, Doom, SWAT, 000, Europa, 
+    DayZ, Riven, Spore, QuakeII, DoomII, Magicka, Quake, Cuphead, 

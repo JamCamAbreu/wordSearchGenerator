@@ -1,0 +1,25 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    W 9 R r o l o c A x 7 C - L v 
+    Y d i d u a N s E r 4 k B s e 
+    V u b Z f M U H z L t n l o s 
+    b s - w S r 4 q Z P o o g m F 
+    a e M a s o i 5 I r w w c e 0 
+    p n t r M n T q T t n N l t U 
+    Y o N 7 w e x 6 t n Z t e i u 
+    L u e o g v w i n d z E a m J 
+    Q g u v w e k q v e r y r e q 
+    a h I N n r E n r u t f i s g 
+    g e r o f e b v 5 k V a 2 P 0 
+    w 6 z z E P c p h L Q c P 5 R 
+    k K - b e m q 2 l P b e k i 7 
+    g n i h t e m o s v t T 3 f O 
+    r e Z L w C k 2 N l 5 8 v z s 
+
+    Find these words:
+    , town, did, turn, before, color, never, we, know, so, wind, 
+    sometimes, clear, face, something, enough, war, very, go, 

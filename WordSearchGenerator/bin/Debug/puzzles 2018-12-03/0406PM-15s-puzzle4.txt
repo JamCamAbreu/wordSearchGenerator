@@ -1,0 +1,21 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    c a n h a s f h h S 
+    u o y n o t o Y i L 
+    n e h t L A l p m o 
+    h n t h i s o e t P 
+    e o t r a p n o h 6 
+    y 3 n a h t g p e q 
+    a l l n d i d l r Y 
+    q f o r l i o e e C 
+    w t i m s o m e u Q 
+    e E k T q w ' I z w 
+
+    Find these words:
+    , you, to, part, oil, the, than, did, has, get, he, people, 
+    sit, can, with, for, there, all, no, they, long, water, not, 
+    this, time, some, then, him, 

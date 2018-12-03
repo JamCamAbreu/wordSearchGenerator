@@ -1,0 +1,26 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    t n u b s L k c o r K u x K c 
+    s u b J U i r e c a r z 6 W 0 
+    Z 9 e n o - n i - e l o h m y 
+    8 0 6 Z R O M c R 3 g 6 C e 0 
+    e - I r Z h i t t e r 5 x d G 
+    l l a b e l d d a p n l 2 a C 
+    f 8 b o w l i n g p A W l l L 
+    w e i g h t l i f t i n g 9 v 
+    g n i f r u s d n i w z G d K 
+    B d e z i n o r h c n y s z H 
+    K o K L 0 t 8 w n D w n n E x 
+    x o q 5 T o 9 r a U f y 6 G Y 
+    q Z z K o C 0 u m y g S N W f 
+    - b a d m i n t o n R f 9 4 P 
+    A 6 n A F k P Z J D H 6 l G O 
+
+    Find these words:
+    racer, medal, bunt, badminton, hole-in-one, paddleball, 
+    hitter, weightlifting, synchronized, bowling, gym, rock, 
+    windsurfing, 

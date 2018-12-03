@@ -1,0 +1,36 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    R H L c w Q P 4 A 3 i r s p o P 3 Y b W 4 g P J O 
+    e t 5 4 l h s j s E B C a e z i s p a c y z M z q 
+    z l c a J 0 A s d e c k i - m J O m O X h n B W f 
+    r E r V E E z L a y 2 m l R d I Q t 2 u D y T P o 
+    g I 7 O M C B ' c S i j e a r r i n g r E T A t D 
+    Y c Y k 0 d S I 4 j B B h T R K w y m N G 0 Z 9 n 
+    L O b L Q e C 2 G i T T n ' M P 0 U R S R J Q b 5 
+    K g u N o 6 U a x Y a 0 W D k p 3 k L o Y b z m l 
+    2 w c X 5 2 D O r e g n a d u E C j n s T O K M d 
+    O z c 5 E v 6 x R K L I K 4 ' s i e h b X 0 R Y k 
+    0 t a M G n 6 l s s e t n u o c p t p 3 P f n J b 
+    a Z n X c B B d u k Z N 2 r 9 X w s 6 V q Z a X c 
+    K V e 6 t o o l n D K H g s a L G a q j Y 5 d s a 
+    8 3 e C Y 5 7 y s U D s 0 m - R u m r 0 p j q i g 
+    C U r o m P R a c Z N q 2 G b h b V Q C t k h i S 
+    H f 6 8 J K e Z r I 4 h c a p t a i n ' S n 4 n Q 
+    7 M R a e e S C u U J X H k 6 ' 0 j p U J S 5 4 b 
+    w f 4 Z v R 2 e p x n Q Y p r i n c e l a d y C z 
+    9 W e Y v 3 k b u G K H F 9 R T y g D B 2 M k F q 
+    a b a n d o n w l j e w e l s V A r s 2 x n V h S 
+    I m U q 4 W Y M o Q a F w c h i e f t a i n b T u 
+    H u X 8 k g M l u p t q K Q l u m M J Y 7 p y i Q 
+    2 S a d a m r a s p P q 6 e j v F w - d g 3 S g Y 
+    g F M L b a r b a r i c O V a U P C R u r F A 5 b 
+    u 6 g a g S t H Z 7 u B Q c r K H J m R k M x L I 
+
+    Find these words:
+    unscrupulous, lady, buccaneer, jetsam, armada, deck, capsize, 
+    prince, countess, jewels, earring, loot, sail, barbaric, 
+    chieftain, captain, abandon, danger, 

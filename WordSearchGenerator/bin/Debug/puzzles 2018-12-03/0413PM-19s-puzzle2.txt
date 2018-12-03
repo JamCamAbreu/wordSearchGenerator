@@ -1,0 +1,37 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    c Y X J E B ' 4 p J s w V 6 p O l a y o r h n c Y 
+    O 6 5 E C S I G p n q K c R n o e l l a g a S u J 
+    g b r a w l 2 x 7 K h 6 o h o r i z o n h n M t X 
+    w R M M d C a R i a X O m l E Q P C D V D d n l s 
+    z 4 X r e h c r a t Q m a s t e j J s j E s p a i 
+    t e 6 0 e U O Z B P H Q d j s w H b J 0 G r 3 s i 
+    Z U C Q 6 D x 3 2 u F p R b r u t a l C R k F s n 
+    V X o o 2 6 l E i r q - g n i r a d - ' Y g M 4 4 
+    3 M 8 5 v 6 d y B C q R M a X 0 Y O R U T z P 5 C 
+    a b a n d o n S T m B T k r L 3 m 2 m k X n M k F 
+    U g a E n B y j a j h ' e r o h s m W n P y B V h 
+    f c Z G B 7 a i L B W o r l d C v i c i o u s b T 
+    M 4 Y c 5 m a r i n e r u P R i t R X f q T T y i 
+    f a q Y P R Z Y Z T n D ' J h p y L u e Y 0 A S g 
+    W V 8 m K e C K K b W 4 9 I ' w r e v e n g e A 5 
+    m O L J e S e k D a K r a p r e t p e c s J Z x L 
+    u a a e R 2 b D b r 2 s h a T G U n r B p b Q J O 
+    S r m v 3 k w U a o g m o r V u k h N 2 t O z z q 
+    F m a v W Y M Z n n 0 G o r u b V p y d a l K W f 
+    6 a y 4 g M l I d 0 2 k k o v 0 j 6 S Y S 0 R P o 
+    L d h k S t H U i I H 9 - t U y g q o d J f n t D 
+    5 a e g P 4 A x t N Y Q p i l l a g e u 2 Z a 9 n 
+    c k m Q s j s e c n i r p K K A r r s R x 5 d b 5 
+    r L w h A s a G N n o n n a c m M Q b 4 7 j q m l 
+    7 N l 0 z L c Q 4 H F e b P 3 F w p 3 y g k h M d 
+
+    Find these words:
+    shore, lady, brawl, hook, armada, daring, brutal, prince, 
+    baron, horizon, hands, knife, revenge, bandit, archer, 
+    cannon, abandon, cutlass, pillage, royal, jetsam, galleon, 
+    vicious, scepter, parrot, mayhem, mariner, World, 

@@ -1,0 +1,26 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    x x m x m e r c h a n t 4 - A 
+    w z a U N s R D 9 d e J m - G 
+    Y a r X ' 2 4 z p - r 4 u B e 
+    t V o b W 3 d l e i h s t U 2 
+    q O o p d f f i k s 8 p i p 7 
+    k 7 n c f s D P o y m 3 n 9 5 
+    5 e c a n e m u D C u i y N 8 
+    f L y n S D q Y k d s l H h n 
+    s w a g g e r K H 7 k l 4 f s 
+    r e d u a r a m J u e e D Y L 
+    P B s l e w e j o w t g U K g 
+    q H P 0 a i r a l a m a Z J c 
+    D V 5 r e g n a d 5 u l T f H 
+    p a m C 4 t h i e v e r y t 0 
+    F 9 w H d 8 N v a y r h - x 7 
+
+    Find these words:
+    maroon, danger, menace, marauder, jewels, mutiny, merchant, 
+    malaria, shield, swagger, musket, thievery, skiff, map, 
+    illegal, 

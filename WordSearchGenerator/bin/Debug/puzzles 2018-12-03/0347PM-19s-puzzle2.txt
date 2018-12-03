@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    S r v z H n v a c r o l o c H Q u o m o C s r T f O P v W X 
+    n F T F G Y H i D N t p D n c f q r e t a w e s J u g o d V 
+    v H W g u d O C i C H n w x l o w j - H X F a G E q a b s G 
+    V S p - l I L P I P z n j e s o i J O l t F l n e t v j h G 
+    b G n f s y s t e m h s f P Q d F k s J R N d A V g e e t s 
+    s d D F i m S G s j e o l C j N l t w J x S o B z B M c E X 
+    U M v H p n S x U u r o J - X j N e c Y W m k h k Z A t D O 
+    Z I P Q P i j z U B F i M e I n E v r n i a t r e c O z n O 
+    r P P z D Z q m n i a l p x e G i e I p F C y e v D b V f Y 
+    U O s F j B y s a e h p n q h P - n L f c N n J t C U n h j 
+    - Q a g a i n s t P L B d W V K w y D x C L M l k V G - z H 
+    w k i w Z G B e r a b Q t c g U N S W R P T R z N D R g g R 
+    G b h s i l g n E y u G m O i y v q U a t T m y X b x W X h 
+    Y H y t T U G T l g j f m M v J B w w r H l x A Q l Q q j c 
+    m p r r K w f B R s w J s e e U f n c K r b Y v X j p O Q S 
+    j u Y o w n i g h t Y j t G k S A m a v Z K b F T g Z j i u 
+    - e o n K r r k J f o l a B n v u z n o s d B A j - p d d m 
+    M p U g g b G R s u t b r U - X C o n i C V u k q L I n Z e 
+    b z V u D W x P p t P U t - d W v L o c J b P y O K v j U e 
+    J e b V q w o c a p h q T y q K w T t e O H m G h i k q l L 
+    e X l U k x M n c E D w w Z j U s y C x e L I Y o c g B g b 
+    c r a V h C F b e V U r A Y e N l i k e c t J - m n d i U - 
+    I z t O C l Y A H r w w F B K p r o b l e m R g c h c o U G 
+    o c e d J x w q C E k r E d w f w h D k C z C q U o X V M J 
+    I k b V T l O q W N t L q k Z n e n l G o S d E V z U U w i 
+    H Q Z G W I R g i Z h k p y c M n m L g N e s m T c k e L c 
+    z F n q D A B W G I e Y e - w Z t X i v V x z k v g i Z W k 
+    Y t o p t F O P f T n r i S p x J z g o D I t v L v n A o G 
+    K h C X - w x j C F U p N g H O N Y r e M j L H i d J U u M 
+    d m j q - i z z F Y L B n H j a A z h F f b o g C m V p E I 
+
+    Find these words:
+    gave, , explain, English, give, certain, against, object, 
+    water, went, real, voice, ten, system, start, even, cannot, 
+    night, then, food, easy, problem, strong, oil, like, color, 
+    late, her, top, space, 

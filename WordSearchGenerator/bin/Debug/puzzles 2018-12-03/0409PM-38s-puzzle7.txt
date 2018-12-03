@@ -1,0 +1,25 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    Z l 7 z r e v o l t k l Z W a 
+    Y Z 8 r 4 z K q A 4 A v 3 U S 
+    8 P B a r o h c n a c q Z o 4 
+    7 t 3 n E m v M z b E G Z f I 
+    9 h y s b 2 d i a m R 2 c m y 
+    j i K a 3 o s n i o c E O F N 
+    y e a c S y z H a G J h c m F 
+    T f J k s r e n i r a m r B o 
+    l A d Y X Z l R c a v e o u W 
+    i y u 0 r e a l m f R D w g w 
+    m Q R 2 M e z i s p a c n u B 
+    e k B b b F Y i R b N G M w n 
+    y d a r i n g 8 r N e z t J Q 
+    0 u Z B Z u w Y t l a s 8 Z P 
+    o d X q L 9 c 4 o Y ' c f v 7 
+
+    Find these words:
+    cave, realm, maid, limey, mariner, thief, salt, capsize, 
+    ransack, anchor, coins, crown, revolt, daring, 

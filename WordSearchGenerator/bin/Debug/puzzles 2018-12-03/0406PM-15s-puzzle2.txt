@@ -1,0 +1,32 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    n ' x W v H s u p p l y ' - f J j 0 Y I 
+    J J C a i K o 4 s t c e s n i - L a l H 
+    u p Y s k g k c o r B F O N A y E B Z S 
+    j X q h p w o r k s O ' W d e F y k S 6 
+    J L D i Z ' 7 j D c B F 9 s M W B J Y p 
+    J N z n m T t l i u b 0 Z h 9 5 q i a W 
+    Q 9 e g i Z C p i c ' q c T D 2 X Y r K 
+    X B b t s N U p l e a s e y m u y M m J 
+    f k e o s c h s b 6 0 I w r i g h t y S 
+    t 7 l n 8 s i m p l e W g H u P 3 G 0 P 
+    y U l m V m u s i c - e s o o h c n B - 
+    j Q X Z c g Q Q 3 f r o n t z o V l s b 
+    f 7 2 j R i f r e t t a m s l B n B t X 
+    l V - J g t t i u r f Q 9 x e e r f i 0 
+    a z v 3 U w o K y a d 9 E C l J A m c 0 
+    t n b U 7 D K K t n e m n r e v o g k n 
+    k h p a r g a r a p D y s a e j r N X e 
+    a b o v e g k r e s e h t n s - z c B w 
+    e O L X Y L s u b s t a n c e s A U A l 
+    u o x N M - c J a D d 0 U G R y C O U w 
+
+    Find these words:
+    , insects, government, Washington, right, flat, please, day, 
+    rock, easy, supply, substances, free, matter, work, built, 
+    choose, bell, front, stick, army, these, paragraph, simple, 
+    music, fruit, above, miss, 

@@ -1,0 +1,19 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    w o u l d I j x s - 
+    - P 4 M t h 9 c N l 
+    w h e n h o s J r i 
+    b u t d e w M 2 f R 
+    o t u o n E c 3 A m 
+    m a g t s r i f E T 
+    a l a t 0 0 B L k 2 
+    y f Z e i E r F R f 
+    N j u l j 8 o 2 e Y 
+    y j x C ' A G 0 X n 
+
+    Find these words:
+    then, , out, but, would, at, how, first, when, may, 

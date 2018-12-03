@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    x f S Y v Q g G n v F W b e c a u s e F n l R Z f t d P n R 
+    z B z J H e r o f e b q r G I L P J g l w h G I u v o i f H 
+    x Y H u T O s n j G G L P S H X b t e b c s d n t u o Q d o 
+    r V D B U X e C W h K s z i N m u t L T E z A I o b r K R W 
+    J S m F H f n J s k t L X q t n e m n r e v o g o r A r Q u 
+    p A e d c e t k j I F o m n E E M B T d a J Q E a O J o v D 
+    A b h t W w e V D V q m m g J z L v t Y A f d j O g g D U X 
+    s d w T Y h n r h k v i q L v r a c - n g R j - U p i d m g 
+    c s b y b W c O i G Y g s E p Q J f k n m C o W v i j L a e 
+    X x f R e j e u L m D h W k S R k Q J u P L - n e v e r c v 
+    d f R o x x w q A h w t g P Q Z c K e v O S U H w o b I h F 
+    I c e n o B A U j X Y H Z G j r e c e r j k p s V E b F i y 
+    W t D p x Z t g Y M r e d n u d Y b m u Q R f u k v A x n D 
+    h e L J b S e t K t i s W a y Y z D w X a u d d I g i n e C 
+    D X b b f P d h V v A n m w m y c t l i n e - a I B q X m H 
+    l V p n Y s h i i v Q K i R R k o x J q g R z r q k U z R x 
+    F w d n W r x s l k q G n - B X w K U d Z n v k s x j j S C 
+    S Z k u k I l x a N E e u X J F e K q R j L g N G j c X c F 
+    T J B f M Y q d r M M n t f g h l O F V o C - k H f y a r X 
+    c u z i K R A a g Z D d e L E - l w T p z q y D B D t Q f g 
+    n a v r l R p a e N Y - s Z q j q m A t - I e n U n X J s j 
+    Z l Y e g t f F R D w C Y e g N t H - x w e e k a W z e R N 
+    S w l k o e W O K l a s t y D H I v d o l e i S E l V T P r 
+    U a G v k x B M S R w O t b e y n w o h s o Y n P G d O A Z 
+    e y O J t O v l a c p s Q t Z h d o v f W n l l P L E m l B 
+    F s X G A v l V H W H v k s r e w s n a j z I E F K r O Z Y 
+    i n k j D x V w i U n - J A x D o O f D W e G e L d v l F y 
+    d M i N - c W H J D V y a o K Q z v F W n S G P U l G j v n 
+    r a j m O a T q T u s c h o o l y g F c A e w S G c q h u - 
+    X s v F B z P C B k j I L P A V M Z H C R X C t K E s z u l 
+
+    Find these words:
+    line, government, , large, well, sit, always, minutes, few, 
+    before, too, fire, last, might, car, this, under, week, 
+    never, dark, do, door, end, answer, shown, machine, school, 
+    because, sentence, one, 

@@ -1,0 +1,25 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    9 c b o s a i d t h e i r k o 
+    8 I r V l C q ' Y h D d y - e 
+    I n o 0 u - B 8 d l u o w d x 
+    r o h o n e s r W Z l C t K p 
+    - R i m a n y N b u n f h e R 
+    ' n s W Y d i d e 2 x t a f f 
+    x B H p 4 g p U y 7 L Z t I T 
+    Y T D 9 p t ' 9 O j l l a 9 s 
+    7 Q u W M h v e y C x A C k w 
+    w e r e g e 8 o v X h a s r I 
+    M H T q 7 E Z u B P L j F X 3 
+    4 c s z H B Y s X U X B 7 3 N 
+    j Y y g o Z Z h o w 3 h I ' f 
+    T e e k i l C ' G e b V e a T 
+    A z H d x g l o Z R L d u H T 
+
+    Find these words:
+    , that, the, his, be, or, how, said, go, has, like, would, 
+    no, all, were, did, one, many, their, 

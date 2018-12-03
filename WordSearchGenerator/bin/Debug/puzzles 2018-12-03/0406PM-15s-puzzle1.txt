@@ -1,0 +1,26 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    I G l a y o r p i W m K l D Z 
+    J E c S a r m a d a a z o S L 
+    b o s ' n ' t 0 a O i q r K ' 
+    t b o u n t y r a t d r d i - 
+    m 0 M Q w y e m i l e s u m r 
+    a A V 2 r e b b o r n a f s T 
+    s g R 6 I A f m r 0 z i l k E 
+    t z n N 5 r e a W h b l e i V 
+    e s p r o c u n P Q f N e f m 
+    g n l J v s d o W b z w t f f 
+    u T l a n d a r l L H t e I x 
+    n f B 0 P z l d l e i h s k 6 
+    B U x 4 i b a r r e l a W N j 
+    P w 2 e W b a d A F H M s y J 
+    W 4 ' u 7 T q w l P K 6 J h z 
+
+    Find these words:
+    limey, manor, corpse, bos'n, robber, mast, feudal, bounty, 
+    sail, bad, fleet, armada, rat, maiden, land, shield, skiff, 
+    lord, barrel, royal, gun, 

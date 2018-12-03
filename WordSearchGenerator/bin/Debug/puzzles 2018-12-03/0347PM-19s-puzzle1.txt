@@ -1,0 +1,45 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+
+
+
+    H J v C H F u A u w N G u k u P Z R M q z n m D O k h D M K 
+    b z B Z B b l e m a c t Q Z g F p d j a Z R N x u W l Y R f 
+    X z y y T R l Q x H X Z i D M u X g L u m f M I n E F K w O 
+    x u D A g r o u n d G Z k x g f x O h P b C n w o d p Y e k 
+    B J Z Z j N g m M S s f d n L I a L - i h V A X a e s r j Z 
+    c e W s j O A a r N t D o o V w w A g p z z k s B c Q F c u 
+    H o S k j v A s r W a R n v E h X v R h u Y b o a t d i D n 
+    P o v A L s V k e J y y ’ M x i I R J a G J s R x P M I G g 
+    d N L h b A t g r K u w t v j c X L m e t s y s p s - g h I 
+    F M K I v g M N j U y J c T k h g O X V q r b A C p n K e G 
+    r Y z n l u g - W d Y z Z C S k g S l e J V g C - z E k p O 
+    V K W l s e e n Y V b t j c F T J M D V g - Q n e h w J a u 
+    f G j I D c - U R i X - q f N i F N - v n u r L C y y k Q S 
+    t j W G l y E D H d V f i l l e d Y e k i l l X e n J R E A 
+    D d w g s w s i d e j - m w P K R O Z w w N h F v C y I q o 
+    j s p e c i a l b d W c h o L G N c S h V G m v e I J r v E 
+    y c S u H v z b J V K p w I O K Y e T y P B Y P r F X a r U 
+    J r O v J t Q Y H Q m v A o E Y D r a G X Q Y v Q E n Z n m 
+    i R q x Y a R t K J F f T y S Z X t n M w p f E F x B E k F 
+    Q T k K U a r e a t l i u b E F D a o t Z c F u z n d E X P 
+    x q f u w l - j o I n U z x Z W d i w E d m B a T b C F o L 
+    X H e v k h g h O L n m g v Q m Z n s h N i - e T n d K V J 
+    u G Q e F c a r e f u l l y u Q i S Y P Y m q W q H S Q V T 
+    i Q M u W i C u H H o i x R K J G S f C F a h a M c o V R X 
+    h n q w A d D H N e Y V O J P M a i v p N G x l v v p j t J 
+    g T W J a y S V n g D Z n R z I l t X M m U P p m n U c T R 
+    C L y l t L Z i c a n f l t s u m W m P N O x V j F y W i W 
+    j H d F p z O e x N g w T T P L y r P g R L k f a c t c P G 
+    m O J Q R Q j L C i A c F V O d x w f V P u A a a Z u U O L 
+    e q m h x Q D o C z E x o n y f Z d S R x Y J s f V Z X o q 
+
+    Find these words:
+    , side, oh, like, now, stay, must, area, ever, can, seen, 
+    down, boat, ask, filled, carefully, which, run, built, fact, 
+    it, special, certain, sea, why, ground, system, when, don’t, 
+    came, 

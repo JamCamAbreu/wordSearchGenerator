@@ -1,0 +1,42 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    L S a r i e t d e v l o v E f e F t 8 y l Z n H X 
+    6 a R F V n o i t a z i l i v i C D G J a n l D - 
+    B c - r L 0 H f A n n o 1 6 0 2 O Z a 5 B S z u B 
+    a r e o m O a y t i n i v i D O 5 O r p a t S n 2 
+    l e U g P 7 r K p T i y t i C m i S r 5 t a t g n 
+    d d U g q w r r e n n u R e d a l B y y t r a e K 
+    u E N e g E y H a l f - L i f e 2 C ' C l C r o v 
+    r P b r L H P y A R M A 3 t k I X o s o e r d n a 
+    ' a T A W S o n u S n a i r e b i s M u f a e L L 
+    s t y G T Y t T h e m e P a r k E s o n i f w o O 
+    G r Z j 3 E t z F a c t o r i o C a d t e t V r 9 
+    a i x b 3 G e M a g i c k a D m K c 8 e l I a d j 
+    t c 4 K 8 u r L P s j y E 3 0 0 0 k p r d I l s w 
+    e i i m C i t y 4 g M i n e c r a s t S b 5 l 8 s 
+    h a I 6 U l I I I t f a r c r a W I w t P O e 0 i 
+    H n E L S d 6 x y n o o c y T o o I 0 r w t y K G 
+    X I 7 t z W J X x 6 m V i e t n a m E i m F - T k 
+    H I l M J a p C T e r r a r i a 4 N N k S v U r Z 
+    x I l y Z r x N E - D 4 W a r h a m m e r 4 0 o E 
+    C o l d W a r C r i s i s e h p u C h E X N w p 5 
+    x 2 r o o l F g n i l l i K Q V W 0 O 3 R j f i x 
+    l a v i v r u S k r A D u k e N u k e m 3 D v c 3 
+    3 c h S 8 Y v b Q O E v e r Q u e s t B O t P o A 
+    o E y C d i Z h ' L 2 r e h c t i W e h T P l a M 
+    p N J p c u P S l Y e E o R B S 3 S p C c - z P t 
+
+    Find these words:
+    CounterStrike, Anno1602, GuildWars2, Spore, Garry'sMod, 
+    SimCity4, Terraria, Evolved, Frogger, Factorio, Baldur'sGate, 
+    WarcraftIII, SWAT, HarryPotter, Warhammer40, Europa, Vietnam, 
+    CivilizationV, 000, SimCity, TiberianSun, EverQuest, 
+    ArkSurvival, Battlefield, ThemePark, Half-Life2, Cuphead, 
+    ARMA3, Divinity, Minecraft, Sacred, DukeNukem3D, TheWitcher2, 
+    StarCraftII, ZooTycoon, StardewValley, DungeonLords, Tropico, 
+    Myst, ColdWarCrisis, KillingFloor, PatricianIII, Magicka, 
+    BladeRunner, CossacksII, 

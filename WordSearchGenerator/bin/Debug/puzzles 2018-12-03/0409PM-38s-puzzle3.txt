@@ -1,0 +1,38 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    e 2 s m i S e h T ' i 0 2 B a x 4 Y T R T J x O D 
+    R 7 4 z P T 5 q A d 3 g u D A X R M h B O J H - B 
+    b v i Z v 8 i g I s p p x e X 0 8 G e z s C v D C 
+    - N T I l - f 0 n o u e s F l R A s S H O L Z o d 
+    M z x T h e W i t c h e r w D 7 T E i D i R - o c 
+    M l a v i v r u S k r A L f W v h l m R Z b y m I 
+    a b k T 7 W a r c r a f t I I z e V s Y e K k I l 
+    c L E 2 t r e l A d e R Y 2 l g L M - S Z a J I z 
+    h u c t D u k e N u k e m 3 D U a f p K o 0 W n 8 
+    i f q 5 4 t f a r C r a t S e L s t x L o o G L Z 
+    n S k h Z B z R m l d 8 T 4 R h t F k P T f V Y k 
+    a M s l 7 D a y s t o D i e c l N C k t y 7 i K t 
+    r w H N z l v 7 p o A q l m 4 N i W s C c t e Q W 
+    i n q x V g e O X c g A d 0 H j n x Q j o T t U S 
+    u E 5 r Q i s s - f I o r m y j j c 8 N o h n n H 
+    m e q L b 2 F l d h V c I L p I a K C o n e a c L 
+    t w 6 P t P 0 I j M x R G 2 R a Q 4 b d 6 m m j p 
+    N a A n n o 1 6 0 2 3 ' a B t t d G 0 3 F e S N S 
+    e M q S i m C i t y 4 ' U h s u o l u p o P W A S 
+    u r v r 5 k U z b - k c o h S o i B t w j a A z 4 
+    I P p D i a b l o I I w 6 y G j b A 4 j Z r T d v 
+    z m 2 t C 3 S i m C i t y 3 0 0 0 Y s i 2 k T 8 a 
+    - C 2 n N v B a l d u r ' s G a t e h u z V Y W O 
+    Z N A k t L u x e G u i l d W a r s e 8 ' 6 t k u 
+    Z U E L E P J T l b X d H 4 q w B y Z e x R u K s 
+
+    Find these words:
+    Machinarium, BioShock, TheSims, Anno1602, Populous, 
+    DukeNukem3D, TheWitcher, SimCity4, ArkSurvival, Vietnam, 
+    TheLastNinja, GuildWars, ThemePark, ZooTycoon, SimCity3000, 
+    TheSims2, StarCraft, 7DaystoDie, DoomII, RedAlert2, 
+    WarcraftII, DiabloII, SWAT, Baldur'sGate, 

@@ -1,0 +1,37 @@
+
+    @ ~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+    |   WORD SEARCH GENERATOR                   |
+    |                     by James 'Cam' Abreu  |
+    @-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~ @
+
+    a c 7 C i q e m o s N t o n 5 2 t L y D L s s y y 
+    t h e r e x j d i d b k S 9 K I h o V j Q N E k U 
+    4 B a D z i R C P w A t G D W 7 a M K Q Q 3 j q t 
+    0 Y f c T K O E l p O i d a G 4 n t i m e X x J s 
+    p z m i E z A P o Z P M ' y k i Q n g E 8 P o I 9 
+    O 4 5 f K K Z D n 3 l h z E Z ' X Q B o r o f u 4 
+    P h a s e h 6 F g u O a 7 t a p u Z r u f J H S ' 
+    9 h - n x 9 j c i r 5 d o C P e 5 6 u p a r t k w 
+    e X S 6 M m d 4 y e h t T 6 L o h E 6 D i 8 i C f 
+    R l d G P U D K w i t h w l p p 2 N n X A q 3 r W 
+    0 M S J 3 V u Q 2 a r N f U M l G 0 f Y R t W 3 m 
+    h i m u y 2 a B t l X 5 D Y Z e m Z A U l w V C 3 
+    t Q b 6 X 3 0 3 i l R l i l P Q J V S Q s o z Z 4 
+    h j t h A j c 9 f Q C U c o u l d g D n O 9 n E L 
+    e k H N 3 ' L r e t a w G F s W s M 9 C w q u L P 
+    F s G T t v 8 u o y l a i 2 A 3 i d n a B l ' J e 
+    c k u P - U l V r I G 7 V P 7 5 t I b g R l x i K 
+    i h X t y 2 X j d A o i l D p ' V a a T t h d B 4 
+    n a v L C D U t a h w i t 2 F H o B 3 g h W 6 7 5 
+    b K e r o m C e K x x f u u P u E R y e 5 X s E w 
+    a b o u t - o n a c o s t h i s P k D t V p D i y 
+    p s K b 3 t O r p u n e h t x t a Q F F Y L ' ' J 
+    j L M v 9 0 X L z B t o B x 4 R N g h m f v X 3 J 
+    n o 2 L r L C R w m 2 R 2 K 2 E C 0 S t M Z 6 ' v 
+    F ' V C B 5 - G t L x Y r C c o 8 J B 5 V O z q U 
+
+    Find these words:
+    , you, to, part, oil, the, than, did, has, get, he, people, 
+    sit, can, with, for, there, all, no, they, long, water, not, 
+    this, time, some, then, him, if, two, about, more, up, had, 
+    could, at, and, what, 
