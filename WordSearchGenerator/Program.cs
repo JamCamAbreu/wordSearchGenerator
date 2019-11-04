@@ -334,6 +334,7 @@ namespace WordSearchGenerator {
       menu_wordLists.Add("Sports");
       menu_wordLists.Add("Pirates and Medieval");
       menu_wordLists.Add("Christmas");
+      menu_wordLists.Add("Cobalt");
 
       menu_dimensions.Add("10 characters");
       menu_dimensions.Add("15 characters");
@@ -461,6 +462,7 @@ namespace WordSearchGenerator {
             case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
             case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
             case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
+            case 8: wg.buildWordList(wordSelections.L_Cobalt, wordSize); break;
             default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
           } // end switch
 
@@ -494,6 +496,7 @@ namespace WordSearchGenerator {
           case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
           case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
           case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
+          case 8: wg.buildWordList(wordSelections.L_Cobalt, wordSize); break;
           default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
         }
 

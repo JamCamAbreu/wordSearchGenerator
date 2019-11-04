@@ -12,3 +12,10 @@ G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.
 G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.CoreCompileInputs.cache
 G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.exe
 G:\GitHub\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.pdb
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.exe.config
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.exe
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.pdb
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csprojAssemblyReference.cache
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.CoreCompileInputs.cache
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.exe
+C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.pdb
