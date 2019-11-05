@@ -135,7 +135,8 @@ namespace WordSearchGenerator {
           w = lineIndent;
         }
         w += wordList[i];
-        w += ", ";
+        if (i < wordList.Count - 1)
+            w += ", ";
       }
       Console.WriteLine(w);
       Console.WriteLine("\n");
