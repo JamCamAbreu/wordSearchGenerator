@@ -19,7 +19,7 @@ namespace WordSearchGenerator {
   class WordGrid {
 
     const char BLANK = '*';
-    const int MAX_CHARS_PER_LINE = 65;
+    const int MAX_CHARS_PER_LINE = 75;
     public int gridSize;
     public string indent;
     public List<string> allWordList;
@@ -332,29 +332,32 @@ namespace WordSearchGenerator {
       menu_wordLists.Add("Fry's first five-hundred");
       menu_wordLists.Add("Fry's first thousand");
       menu_wordLists.Add("Popular PC games");
-      menu_wordLists.Add("Sports");
-      menu_wordLists.Add("Pirates and Medieval");
-      menu_wordLists.Add("Christmas");
-      menu_wordLists.Add("Cobalt");
+      menu_wordLists.Add("Dot Net");
+      menu_wordLists.Add("Lord of the Rings");
+      menu_wordLists.Add("Harry Potter");
+      menu_wordLists.Add("Jane Austin");
 
-      menu_dimensions.Add("10 characters");
-      menu_dimensions.Add("15 characters");
-      menu_dimensions.Add("20 characters");
-      menu_dimensions.Add("25 characters");
-      menu_dimensions.Add("30 characters");
+      menu_dimensions.Add("14 characters");
+      menu_dimensions.Add("21 characters");
+      menu_dimensions.Add("28 characters");
+      menu_dimensions.Add("35 characters");
+      menu_dimensions.Add("42 characters");
+      menu_dimensions.Add("49 characters");
 
-      menu_wordLengths.Add("4 letters");
-      menu_wordLengths.Add("6 letters");
-      menu_wordLengths.Add("8 letters");
+      menu_wordLengths.Add("5 letters");
       menu_wordLengths.Add("10 letters");
-      menu_wordLengths.Add("12 letters");
+      menu_wordLengths.Add("15 letters");
+      menu_wordLengths.Add("20 letters");
+      menu_wordLengths.Add("25 letters");
+      menu_wordLengths.Add("30 letters");
 
-      menu_numWords.Add("5 words");
-      menu_numWords.Add("10 words");
-      menu_numWords.Add("15 words");
-      menu_numWords.Add("20 words");
-      menu_numWords.Add("25 words");
-      menu_numWords.Add("30 words");
+      menu_numWords.Add("7 words");
+      menu_numWords.Add("14 words");
+      menu_numWords.Add("21 words");
+      menu_numWords.Add("28 words");
+      menu_numWords.Add("35 words");
+      menu_numWords.Add("42 words");
+      menu_numWords.Add("49 words");
 
       menu_numPuzzles.Add("1 puzzle");
       menu_numPuzzles.Add("2 puzzles");
@@ -460,10 +463,10 @@ namespace WordSearchGenerator {
             case 2: wg.buildWordList(wordSelections.L_fryFirstFiveHundred, wordSize); break;
             case 3: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
             case 4: wg.buildWordList(wordSelections.L_popularComputerGames, wordSize); break;
-            case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
-            case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
-            case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
-            case 8: wg.buildWordList(wordSelections.L_Cobalt, wordSize); break;
+            case 5: wg.buildWordList(wordSelections.L_DOTNET, wordSize); break;
+            case 6: wg.buildWordList(wordSelections.L_LordOfTheRings, wordSize); break;
+            case 7: wg.buildWordList(wordSelections.L_HarryPotter, wordSize); break;
+            case 8: wg.buildWordList(wordSelections.L_JaneAustin, wordSize); break;
             default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
           } // end switch
 
@@ -477,13 +480,13 @@ namespace WordSearchGenerator {
 
       // CUSTOM PUZZLES WITH SETTINGS:
       else {
-        answer = question("How many letters wide/long would you like your puzzle?:\n" + menuOptions(menu_dimensions, 1));
-        int puzzleSize = 5 + 5 * answer;
+        answer = question("\n\nHow many letters wide/long would you like your puzzle?:\n" + menuOptions(menu_dimensions, 1));
+        int puzzleSize = 7 + 7 * answer;
         int wordList = question("\n\nPlease choose a word list:\n" + menuOptions(menu_wordLists, 1));
         answer = question("\n\nMaximum possible word size?\n" + menuOptions(menu_wordLengths, 1));
-        int wordSize = 2 + answer * 2;
+        int wordSize = answer * 5;
         answer = question("\n\nHow many words will each puzzle contain?\n" + menuOptions(menu_numWords, 1));
-        int numWords = answer * 5;
+        int numWords = answer * 7;
         answer = question("\n\nHow many puzzle files would you like to generate?\n" + menuOptions(menu_numPuzzles, 1));
         int numPuzzles = (int)Math.Pow(2, (answer - 1));
 
@@ -494,10 +497,10 @@ namespace WordSearchGenerator {
           case 2: wg.buildWordList(wordSelections.L_fryFirstFiveHundred, wordSize); break;
           case 3: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
           case 4: wg.buildWordList(wordSelections.L_popularComputerGames, wordSize); break;
-          case 5: wg.buildWordList(wordSelections.L_sportsWords, wordSize); break;
-          case 6: wg.buildWordList(wordSelections.L_piratesMedieval, wordSize); break;
-          case 7: wg.buildWordList(wordSelections.L_xmasWords, wordSize); break;
-          case 8: wg.buildWordList(wordSelections.L_Cobalt, wordSize); break;
+          case 5: wg.buildWordList(wordSelections.L_DOTNET, wordSize); break;
+          case 6: wg.buildWordList(wordSelections.L_LordOfTheRings, wordSize); break;
+          case 7: wg.buildWordList(wordSelections.L_HarryPotter, wordSize); break;
+          case 8: wg.buildWordList(wordSelections.L_JaneAustin, wordSize); break;
           default: wg.buildWordList(wordSelections.L_fryFirstThousand, wordSize); break;
         }
 

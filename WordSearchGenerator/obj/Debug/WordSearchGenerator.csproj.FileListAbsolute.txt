@@ -19,3 +19,10 @@ C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debu
 C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.CoreCompileInputs.cache
 C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.exe
 C:\Users\cam.abreu\source\repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.pdb
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.exe.config
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.exe
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\bin\Debug\WordSearchGenerator.pdb
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.AssemblyReference.cache
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.csproj.CoreCompileInputs.cache
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.exe
+C:\Users\CamAbreu\Source\Repos\wordSearchGenerator\WordSearchGenerator\obj\Debug\WordSearchGenerator.pdb
